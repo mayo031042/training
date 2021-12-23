@@ -3,4 +3,3 @@ bra
 
 rebase -i 
 amend
-revert
