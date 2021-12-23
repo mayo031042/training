@@ -2,3 +2,4 @@ main
 bra
 
 rebase -i 
+amend
