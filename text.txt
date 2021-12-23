@@ -3,3 +3,4 @@ bra
 
 rebase -i 
 amend
+bran->bran
