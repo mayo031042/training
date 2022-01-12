@@ -1,16 +1,1 @@
-main
-bra
-
-rebase -i 
-amend
-
-bran->bran
-bran->bran2
-bran->bran3
-
-new 
-new2
-@new2
-new2 2
-
-bb
+first commit
